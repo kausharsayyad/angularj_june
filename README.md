@@ -1,1 +1,1 @@
-# angularj_june
+# angular_june
